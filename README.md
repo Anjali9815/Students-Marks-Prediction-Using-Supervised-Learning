@@ -1,1 +1,1 @@
-# Students-Marks-Prediction-Using-Unsupervised-Learning
+# Students-Marks-Prediction-Using-Supervised-Learning
